@@ -12,10 +12,10 @@ The aim is to turn encounters with good work into better decisions and things wo
 
 | Material | Purpose | First entry |
 | --- | --- | --- |
-| Learnings | Record a source, observations, interpretations, and possible applications | [Dia release notes](learnings/2026-10-17-dia-release-notes.md) |
-| Skills | Give a person or AI actionable guidance for a particular task | [Human-centered release notes](skills/human-centered-release-notes/SKILL.md) |
-| Workflows | Connect learning, making, feedback, and revision | [Learn to craft](workflows/learn-to-craft.md) |
-| Templates | Make the next contribution easier | [Learning note](templates/learning-note.md) · [Skill proposal](templates/skill-proposal.md) |
+| Learnings | Record sources, observations, interpretations, and reading depth | [Source index](docs/SOURCES.md) |
+| Skills | Give a person or AI actionable guidance for a particular task | [Human-centered release notes](skills/human-centered-release-notes/SKILL.md) · [Reference-led design](skills/reference-led-design/SKILL.md) |
+| Workflows | Connect learning, making, feedback, and revision | [Learn to craft](workflows/learn-to-craft.md) · [Typography in context](workflows/typography-in-context.md) |
+| Templates | Make the next contribution easier | [Learning note](templates/learning-note.md) · [Skill proposal](templates/skill-proposal.md) · [Design decision](templates/design-decision.md) |
 
 ## Scope
 
@@ -26,7 +26,9 @@ The aim is to turn encounters with good work into better decisions and things wo
 - Creative research: question framing, conceptual models, explanation, and scientific storytelling, with evidence tracked separately from speculation.
 - Workflows: practical combinations of tools, people, and AI across these activities.
 
-These are directions for growth. The initial repository contains one source-based learning note, one draft skill, and one workflow; the broader directions have no implemented skill packs yet.
+These are directions for growth. The current library contains four source notes (including one directory-level reading map), two draft skills, and two workflows. The broader directions will grow through concrete tasks and documented feedback.
+
+The [source index](docs/SOURCES.md) distinguishes articles read from reading queues. It also links SkyWT's existing Chinese typography skill for upstream reuse; that external skill is not bundled or installed here.
 
 ## Use a skill
 

@@ -12,10 +12,10 @@ AtomCraft 是 [AtomRearch](https://github.com/AtomRearch) 矩阵的一部分，�
 
 | 内容 | 用途 | 首个条目 |
 | --- | --- | --- |
-| 学习笔记 | 保留来源，区分观察、理解与延伸 | [从 Dia 的 Release Notes 学习](learnings/2026-10-17-dia-release-notes.md) |
-| Skills | 为具体任务提供可执行的指导 | [有人味的更新说明](skills/human-centered-release-notes/SKILL.md) |
-| Workflows | 连接学习、制作、反馈与修订 | [从学习到创造](workflows/learn-to-craft.md) |
-| Templates | 降低下一次积累的成本 | [学习笔记](templates/learning-note.md) · [Skill 提案](templates/skill-proposal.md) |
+| 学习笔记 | 保留来源，区分观察、理解、延伸与阅读深度 | [资料与阅读状态索引](docs/SOURCES.md) |
+| Skills | 为具体任务提供可执行的指导 | [有人味的更新说明](skills/human-centered-release-notes/SKILL.md) · [参考驱动的设计探索](skills/reference-led-design/SKILL.md) |
+| Workflows | 连接学习、制作、反馈与修订 | [从学习到创造](workflows/learn-to-craft.md) · [语境中的排版检查](workflows/typography-in-context.md) |
+| Templates | 降低下一次积累的成本 | [学习笔记](templates/learning-note.md) · [Skill 提案](templates/skill-proposal.md) · [设计决策](templates/design-decision.md) |
 
 ## 长期范围
 
@@ -26,7 +26,9 @@ AtomCraft 是 [AtomRearch](https://github.com/AtomRearch) 矩阵的一部分，�
 - **科研创造性实践**：问题构建、概念模型、解释与科学叙事；明确区分证据、类比、假说和推测。
 - **工作流**：围绕上述活动组合工具、人与 AI，保留实际有帮助的过程。
 
-以上是发展方向。当前初始内容为一篇有来源的学习笔记、一个 draft skill，以及一个学习到实践的 workflow；其他方向尚未实现成技能包。
+以上是发展方向。当前库中有四份来源笔记（包含一份目录层面的阅读地图）、两个 draft skills，以及两个 workflows；其他方向将随真实任务与反馈逐步生长。
+
+[资料索引](docs/SOURCES.md) 分别记录已读文章与待读条目，也保留 SkyWT 已有中文排版 skill 的上游入口；该外部技能未被打包或安装到本仓库。
 
 ## 如何使用
 
